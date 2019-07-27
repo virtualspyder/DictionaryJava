@@ -1,0 +1,89 @@
+! Opening data file... ./Data.CS.SFSU.txt
+! Loading data...
+! Loading completed...
+! Closing data file... ./Data.CS.SFSU.txt
+
+-----DICTIONARY 340 C++-----
+
+Search: one two three four five siz seven
+        |
+         <Please enter a search key (and a part of speech).>
+        |
+Search:
+        |
+         <Please enter a search key (and a part of speech).>
+        |
+Search: one two
+        |
+         <2nd argument must be a part of speech.>
+        |
+Search: one noun
+        |
+         <Not found.>
+        |
+Search: cSc340 noun
+        |
+         CSC340 [noun] : A CS upper division course.
+         CSC340 [noun] : Many hours outside of class.
+        |
+Search: csc340
+        |
+         CSC340 [adjective] : C++ version of CSC210 + CSC220 + more
+         CSC340 [noun] : A CS upper division course.
+         CSC340 [noun] : Many hours outside of class.
+        |
+Search: Facebook
+        |
+         <Not found.>
+        |
+Search: csc340 verb
+        |
+         <Not found.>
+        |
+Search: csc220
+        |
+         CSC220 [adjective] : Ready to create complex data structures.
+         CSC220 [noun] : Data Structures.
+         CSC220 [verb] : To create data structures.
+        |
+Search: csc220 verb
+        |
+         CSC220 [verb] : To create data structures.
+        |
+Search: csc210
+        |
+         CSC210 [adjective] : Comfortable with Objects and Classes.
+         CSC210 [adjective] : Ready for CSC 220.
+         CSC210 [noun] : Intro to Java.
+         CSC210 [verb] : To learn Java.
+        |
+Search: csc210 adjective
+        |
+         CSC210 [adjective] : Comfortable with Objects and Classes.
+         CSC210 [adjective] : Ready for CSC 220.
+        |
+Search: book
+        |
+         Book [noun] : A set of pages.
+         Book [verb] : To arrange something on a particular date.
+        |
+Search: bookable adjective
+        |
+         Bookable [adjective] : Can be ordered.
+        |
+Search: bookBINER noun
+        |
+         <Not found.>
+        |
+Search: BOOKcase
+        |
+         Bookcase [noun] : A piece of furniture with shelves.
+        |
+Search: BookCase noun
+        |
+         Bookcase [noun] : A piece of furniture with shelves.
+        |
+Search: !Q
+
+-----THANK YOU-----
+Press any key to continue . . .
